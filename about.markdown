@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I graduated from University of Toronto in 2018, with Hornors Bachelor of Science Diploma, in Applied Mathematics, Statistics and Economics. I worked in the Data Analytics field for more than 3 years after my graduation, and during the same period, I also advanced my programming skills (SQL, Python, R etc.) via multiple courses/continuing studies/research opportunities. After which, I decided to take some advanced education to improve my modeling skills, so I started my Master of Engineering studies in 2021, and am currently studying Operations Research and Information Engineering at Cornell University, with my concentration in Data Analytics.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+If you are interested in my past experience, you can find my recent Resume [here][1].
+[1]:https://sharon955.github.io/download/Blurred_Resume.pdf
 
 
 [jekyll-organization]: https://github.com/jekyll
