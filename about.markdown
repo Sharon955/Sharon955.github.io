@@ -9,6 +9,7 @@ I graduated from University of Toronto in 2018, with Hornors Bachelor of Science
 If you are interested in my past experience, you can find my recent Resume [here][1].
 
 [1]:{{ site.url }}/download/Blurred_Resume.png
+[jekyll-organization]: https://github.com/jekyll
 
 
 
