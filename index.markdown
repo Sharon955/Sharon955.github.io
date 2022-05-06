@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Hi There, thank you for visiting my personal website!
