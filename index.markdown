@@ -5,10 +5,10 @@
 layout: home
 ---
 
-![Logo Jekyll]({{site.url}}/download/hp_images.jpg )  
+![Logo Jekyll]({{site.url}}/download/hp_images.jpg ){: width="250" }  
 
-test test
-Hi There, thank you for visiting my website and nice to meet you virtually! Below is some brief introduction about me, and for more information, please go to the [About]({{ site.url }}/About) page.
+test test test  
+Hi There, thank you for visiting my website and nice to meet you virtually! Below is some brief introduction about me, and for more information, please go to the About page.
 
 
 **Sharon Liu**  
