@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Hi There, thank you for visiting my personal website!
+{% for post in site.posts %}
+  <img src="{% post.feature_img %}" />
+{% endfor %}
