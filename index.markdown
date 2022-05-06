@@ -5,6 +5,8 @@
 layout: home
 ---
 
-{% for post in site.posts %}
-  <img src="{% post.feature_img %}" />
-{% endfor %}
+ <ul>
+<li  markdown="1">
+![Logo Jekyll]({{site.url}}/download/hp_images.jpg )
+</li>
+</ul>
