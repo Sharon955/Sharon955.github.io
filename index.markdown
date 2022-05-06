@@ -13,16 +13,12 @@ layout: home
 Hi There, thank you for visiting my website and nice to meet you virtually! Below is some brief introduction about me, and for more information, please go to the [About][1] page.
 [1]:{{ site.url }}/About
 
-**Sharon Liu**
+**Sharon Liu**  
+School: Cornell Univeristy  
+Occupation: Master's student  
+Contact: example@example.com  
+Resume: [here][2]  
 
-School: Cornell Univeristy
-
-Occupation: Master's student
-
-Contact: example@example.com
-
-Resume: [here][1]
-
-[1]:{{ site.url }}/download/Blurred_Resume.png
+[2]:{{ site.url }}/download/Blurred_Resume.png
 
 
