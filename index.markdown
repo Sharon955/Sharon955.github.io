@@ -15,8 +15,8 @@ Hi There, thank you for visiting my website and nice to meet you virtually! Belo
 School: Cornell Univeristy  
 Occupation: Master's student  
 Contact: example@example.com  
-Resume: [here][2]  
+Resume: [here][1]  
 
-[2]:{{ site.url }}/download/Sample_Resume.png
+[1]:{{ site.url }}/download/Sample_Resume.pdf
 
 
