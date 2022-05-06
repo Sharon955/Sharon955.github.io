@@ -5,11 +5,11 @@
 layout: home
 ---
 
-<ul>
+
 <li  markdown="1">
 ![Logo Jekyll]({{site.url}}/download/hp_images.jpg )
 </li>
-</ul>
+
 
 Hi There, thank you for visiting my website and nice to meet you virtually! 
 
