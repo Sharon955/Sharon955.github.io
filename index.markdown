@@ -11,7 +11,8 @@ layout: home
 </li>
 
 Hi There, thank you for visiting my website and nice to meet you virtually! Below is some brief introduction about me, and for more information, please go to the [About][1] page.
-[1]:{{ site.url }}/About
+
+[1]:{{ site.url }}/About/
 
 **Sharon Liu**  
 School: Cornell Univeristy  
